@@ -4,6 +4,7 @@
 # Allow the .gitignore file itself
 !.gitignore
 
-# Allow only the specific notebook and report PDF in this workspace
+# Allow only the specific notebook, report PDF and README.md in this workspace 
 !safe_haven_analysis.ipynb
 !safe_haven_report.pdf
+!README.md
