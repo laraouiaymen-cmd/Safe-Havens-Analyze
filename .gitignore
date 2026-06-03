@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow the .gitignore file itself
+!.gitignore
+
+# Allow only the specific notebook and report PDF in this workspace
+!safe_haven_analysis.ipynb
+!safe_haven_report.pdf
